@@ -1,0 +1,6 @@
+project_name,owner,status,completion_pct,blockers,due_date,notes
+AWS Site Readiness - APJC,Team A,In Progress,65,Utility approval pending,2026-05-15,PFHO milestone at risk
+Tango Workflow Automation,Team B,On Track,80,None,2026-04-30,3 regions aligned
+Redshift Pipeline Migration,Team C,At Risk,40,Engineering resource gap,2026-04-20,Dependencies on 2 external teams
+Datacenter Dashboard v2,Team D,Complete,100,None,2026-04-01,Shipped to all stakeholders
+Global SLA Governance,Team E,In Progress,55,Legal review delayed,2026-05-30,EMEA escalation pending
