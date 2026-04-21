@@ -1,3 +1,6 @@
+# Copyright © 2026 Sanchita Hosur. All Rights Reserved.
+# github.com/sanchita68
+
 import os
 import pandas as pd
 import anthropic
